@@ -1,4 +1,3 @@
-
 def valores(quantidade):
     lista = []
     for i in range(quantidade):
